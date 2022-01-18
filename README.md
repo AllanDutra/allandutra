@@ -18,3 +18,4 @@
   
   ##
  
+![Snake animation](https://github.com/AllanDutra/allandutra/blob/output/github-contribution-grid-snake.svg)
