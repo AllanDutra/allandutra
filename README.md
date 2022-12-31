@@ -1,4 +1,4 @@
-## Olá! Eu sou o Allan Dutra!
+## Olá! Eu sou o Allan Dutra! ![](https://gpvc.arturio.dev/allandutra)
 
 <div>
   <a href="https://github.com/AllanDutra">
