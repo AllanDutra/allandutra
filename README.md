@@ -1,4 +1,4 @@
-## Olá, eu sou o Allan Dutra, desenvolvedor de software!
+## Hello, I'm Allan Dutra, software developer!
 
 <br>
 
