@@ -29,18 +29,17 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/allan-dutra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@programadortocantinense" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" height="35" alt="youtube logo"  />
-  </a>
-</div>
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">][linkedin]
+[<img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">][instagram]
+[<img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">][youtube]
 
 ###
 
 <br clear="both">
+
+[linkedin]: https://www.linkedin.com/in/allan-dutra/
+[instagram]: https://www.instagram.com/programadortocantinense/reels/
+[youtube]: https://www.youtube.com/@programadortocantinense
 
 ![Snake animation](https://github.com/AllanDutra/allandutra/blob/output/github-contribution-grid-snake.svg)
 
